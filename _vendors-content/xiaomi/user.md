@@ -1,25 +1,25 @@
 ---
 manufacturer: 
-    - xiaomi
+-小米
 
 ---
 
-### App pinning / App locking
+###应用钉扎/应用锁定
 
-When you open the recent apps tray, drag your app downwards (it will be locked). So, even if you clear recent apps, it will not clear them from the background. Drag downwards again to clear your app from the background. <br>
-On some phones, you need to long-press Your app and then choose the padlock icon from the menu:
+当你打开最近的应用程序托盘，拖动你的应用程序向下（它将被锁定）。所以，即使你清除了最近的应用程序，它也不会从后台清除它们。再次向下拖动以从后台清除应用程序。<溴>
+在一些手机上，你需要长按你的应用程序，然后从菜单中选择挂锁图标：
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/locking.jpg">
-</div>
+<级班级="img-block">
+  <百万毫克学生代表会="/assets/img/xiaomi/locking.jpg">
+</级>
 
 
-### Autostart permission
+###自动启动权限
 
-On MIUI 14, there is a new permission to start from the background for each app, in *Settings > Apps > Your app > App permissions > Background autostart*.
+在MIUI 14上，每个应用程序都有一个从后台启动的新权限，在*设置>应用程序>您的应用程序>应用程序权限>后台自动启动*.
 
-<div class="img-block">
-  <img src="/assets/img/xiaomi/miui14_autostart.png">
+<级班级="img-block">
+  <百万毫克学生代表会="/assets/img/xiaomi/miui14_autostart.png">
 
 </div>
 
